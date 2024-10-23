@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hbday/static/css/main.04e12401.css",
+    "main.js": "/hbday/static/js/main.44e52367.js",
+    "static/js/453.09b3aeae.chunk.js": "/hbday/static/js/453.09b3aeae.chunk.js",
+    "static/media/happy-birthday.mp3": "/hbday/static/media/happy-birthday.410970ef9e8907eb0a75.mp3",
+    "static/media/cake.png": "/hbday/static/media/cake.c9c0624a2cc208ea5d0c.png",
+    "static/media/img3.jpeg": "/hbday/static/media/img3.2c49198bbbfc2d474717.jpeg",
+    "static/media/img1.jpeg": "/hbday/static/media/img1.a5eebff453c2905de230.jpeg",
+    "static/media/img5.jpeg": "/hbday/static/media/img5.b2ffb2d5da96f9177c22.jpeg",
+    "static/media/img4.jpeg": "/hbday/static/media/img4.6c788e968a208337db8f.jpeg",
+    "static/media/img2.jpeg": "/hbday/static/media/img2.538d6a2e7cd40067d70d.jpeg",
+    "static/media/slick.svg": "/hbday/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hbday/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hbday/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hbday/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hbday/index.html",
+    "main.04e12401.css.map": "/hbday/static/css/main.04e12401.css.map",
+    "main.44e52367.js.map": "/hbday/static/js/main.44e52367.js.map",
+    "453.09b3aeae.chunk.js.map": "/hbday/static/js/453.09b3aeae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e12401.css",
+    "static/js/main.44e52367.js"
+  ]
+}
