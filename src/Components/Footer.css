@@ -1,0 +1,31 @@
+/* Footer container styles */
+.footer-container {
+    min-height: 100px;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;  /* Hide the overflow of the scrolling text */
+  }
+  
+  /* Scrolling text styles */
+  .scrolling-text {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 0 0 10px #f0f, 0 0 20px #f0f, 0 0 30px #ff00ff;
+    white-space: nowrap;  /* Prevent the text from breaking into multiple lines */
+    position: absolute;
+    animation: scroll-text 5s alternate-reverse infinite;
+  }
+  
+  /* Keyframes for scrolling effect */
+  @keyframes scroll-text {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-0%);
+    }
+  }
+  

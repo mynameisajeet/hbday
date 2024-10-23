@@ -1,0 +1,19 @@
+/* Main container should take full height of the viewport */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  /* Ensures the container takes up the full height of the screen */
+}
+
+/* Content will take up available space and push the footer down */
+.content {
+  flex: 1;  /* This pushes the footer to the bottom */
+  padding: 20px;
+}
+
+/* Footer styles */
+.footer-container {
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
